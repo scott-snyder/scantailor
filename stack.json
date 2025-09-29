@@ -1,13 +1,17 @@
 {
   "version": 5,
-  "prev": "352ce2ab637c4b6ab98c8d9eff6a960217bb5810",
-  "head": "d4c7049c0f86922df341a7f0533fb58bb22822ec",
+  "prev": "f4e65a8fe24e1365159f6a8bf63740d354358e08",
+  "head": "a82ae7dbf0f021e1427aef9b4c93c188a5c2a91d",
   "applied": [
-    "dewarp-cli"
+    "dewarp-cli",
+    "boost-compat"
   ],
   "unapplied": [],
   "hidden": [],
   "patches": {
+    "boost-compat": {
+      "oid": "a82ae7dbf0f021e1427aef9b4c93c188a5c2a91d"
+    },
     "dewarp-cli": {
       "oid": "d4c7049c0f86922df341a7f0533fb58bb22822ec"
     }
